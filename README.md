@@ -1,3 +1,6 @@
+(note)
+i was not able to upload the Excel file itself because when i ran the code it compiled the data but it never stopped compiling after several hours.
+
 Sources and use for Source:
 worksheets:
 https://www.mrexcel.com/board/threads/how-to-change-same-cell-in-multiple-worksheets.129003/ (Smitty Legend, May 15 2003)
