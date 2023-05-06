@@ -1,3 +1,5 @@
+(update note)
+Please check recent VBA and demo video
 (note)
 i was not able to upload the Excel file itself because when i ran the code it compiled the data but it never stopped compiling after several hours.
 
